@@ -2,4 +2,4 @@
 
 you're mom
 
-this was [nepnep's](https://github.com/nepnep39) idea
+this was ~~my~~ ~~[nepnep's](https://github.com/nepnep39)~~ database's idea
