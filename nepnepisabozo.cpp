@@ -77,6 +77,7 @@ int main()
 	/*std::cout << waifu1 << " ";
 	std::cout << waifu2;*/
 
-	库特🔥🔥🔥🇨🇳🇨🇳🇨🇳🇨🇳 << "you are gay";
+	库特🔥🔥🔥🇨🇳🇨🇳🇨🇳🇨🇳 << "you are gay\n";
+	库特🔥🔥🔥🇨🇳🇨🇳🇨🇳🇨🇳 << "Hatsune Miku sucks and anyone that likes her should be sent to a psych ward";
 
 }
